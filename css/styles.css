@@ -1,0 +1,16 @@
+body
+{
+  background-color:mintcream;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  width: 10%;
+  border-width: 5px;
+}
+h1 , h2 , h3 , h4 , h5 
+{
+    color: #66BFBF;
+}
